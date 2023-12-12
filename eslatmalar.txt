@@ -1,0 +1,1 @@
+Do not forget to change max_pages and reviews in util_collect
